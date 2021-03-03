@@ -20,10 +20,6 @@ export default function Home() {
           >
             <h3>Ofertas Limpas &rarr;</h3>
             <p>Grade com ofertas de afiliados, de forma limpa e organizada.</p>
-            <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=brunoazevedo-20&linkCode=ur2&linkId=b3b36353e34050c49cb3fb43cc73813b&camp=1789&creative=9325&node=16339933011"
-             className={styles.card}
-            >Informatica Special Features Stores
-            </a>
           </a>
 
           <a href="http://instagram.com/brunomalka"
@@ -40,7 +36,10 @@ export default function Home() {
             <p>Considere meu currículo</p>
           </a>
 
-          
+          <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=brunoazevedo-20&linkCode=ur2&linkId=b3b36353e34050c49cb3fb43cc73813b&camp=1789&creative=9325&node=16339933011"
+             className={styles.card}
+            >Informatica Special Features Stores
+            </a>
         </div>
       </main>
 
