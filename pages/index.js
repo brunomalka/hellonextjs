@@ -45,7 +45,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Bruno Azevedo" className={styles.logo} />
+          <span>Bruno Azevedo</span>
         </a>
       </footer>
     </div>
