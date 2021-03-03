@@ -36,10 +36,13 @@ export default function Home() {
             <p>Considere meu currículo</p>
           </a>
 
-          <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=brunoazevedo-20&linkCode=ur2&linkId=b3b36353e34050c49cb3fb43cc73813b&camp=1789&creative=9325&node=16339933011"
-             className={styles.card}
-            >Informatica Special Features Stores
+          <div className={styles.card}>
+            <h3>Ofertas Amazon</h3>
+            <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=brunoazevedo-20&linkCode=ur2&linkId=b3b36353e34050c49cb3fb43cc73813b&camp=1789&creative=9325&node=16339933011"
+              className={styles.card}
+              >Informatica Special Features Stores
             </a>
+          </div>
         </div>
       </main>
 
