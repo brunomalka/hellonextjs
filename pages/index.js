@@ -44,8 +44,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <span>Bruno Azevedo</span>
+          Powered by {' '}
+          <span className={styles.code}>Bruno Azevedo</span>
         </a>
       </footer>
     </div>
